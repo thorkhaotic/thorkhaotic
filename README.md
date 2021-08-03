@@ -5,8 +5,4 @@
 - 🎸Amante de um Metal (Death, Thrash e Heavy)
 - 📚 Autodidata sempre em busca de conhecimentos
 
-![Khaotic GitHub stats](https://github-readme-stats.vercel.app/api?username=thorkhaotic&show_icons=true&theme=dark)
-
-
-
-<i class="devicon-vscode-plain-wordmark colored"></i>
+![Khaotic GitHub stats](https://github-readme-stats.vercel.app/api?username=thorkhaotic&show_icons=true&theme=vue-dark)
