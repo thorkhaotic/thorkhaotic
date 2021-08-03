@@ -1,4 +1,4 @@
-### Bem-vindo(a) me chamo Rodrigo, seja bem vindo ao meu Github ☠️
+### Bem-vindo(a) podem me chamar de Thor, seja bem vindo ao meu Github ☠️
 
 
 - 💻 Estou aprendendo C++, SQL Server e Python
